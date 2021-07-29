@@ -1,0 +1,50 @@
+/* style for 180 projects in however many days */
+
+*{
+   margin: 0; 
+   padding: 0;
+}
+.wrapper1{
+    width: auto;
+    margin: 0 auto;
+    background: #8d5fc8;
+}
+.wrapper{
+    width: auto;
+    margin: 0 auto;
+}
+
+header{
+    /* height: 130px; */
+    /* background: #8d5fc8; */
+    width: 100%;
+    z-index: 12;
+    position: fixed;
+    text-align: center;
+}
+.uppersvg {
+    background: #fff;
+}
+.intro svg {
+    background: #8d5fc8;
+}
+.content-area{
+    width: 100%;
+    position: relative;
+    top: 200px;
+    height: 1500px;
+    background: #fff;
+}
+
+.content{
+    height: 1500px;
+    padding: 0 2% 0 2%;
+}
+
+.list-header{
+    padding: 10px 0 20px 0;
+}
+.name{
+    margin: 0;
+}
+
